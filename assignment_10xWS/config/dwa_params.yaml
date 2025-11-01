@@ -1,0 +1,13 @@
+dwa_planner_node:
+  ros__parameters:
+    # Robot velocity limits
+    max_speed: 0.22  # m/s
+    max_yaw_rate: 40.0  # degrees/s
+    
+    # Robot physical parameters
+    robot_radius: 0.2  # m
+    
+    # Goal parameters
+    goal_x: 5.0  # m
+    goal_y: 5.0  # m
+    goal_tolerance: 0.3  # m
