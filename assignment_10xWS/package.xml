@@ -3,8 +3,8 @@
 <package format="3">
   <name>custom_dwa_planner</name>
   <version>1.0.0</version>
-  <description>Custom DWA Local Planner for TurtleBot in ROS2 Humble</description>
-  <maintainer email="user@example.com">Developer</maintainer>
+  <description>Custom DWA Local Planner </description>
+  <maintainer email="fayaspallikkara@gmail.com">Developer</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
