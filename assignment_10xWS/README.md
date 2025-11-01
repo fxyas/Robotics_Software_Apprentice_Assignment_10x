@@ -64,6 +64,3 @@ Edit `config/dwa_params.yaml` to tune the planner:
 - `robot_radius`: Robot footprint radius (default: 0.2 m)
 - `goal_tolerance`: Distance to consider goal reached (default: 0.3 m)
 
----
-
-**Author**: Fayas
